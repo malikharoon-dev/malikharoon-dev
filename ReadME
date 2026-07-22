@@ -1,14 +1,81 @@
-# Hi, I'm Malik Haroon Ahmad 👋
+# Hi, I'm Haroon Ahmad 👋
 
 ## 🚀 About Me
-- Aspiring Software Developer
-- Learning Python & Artificial Intelligence
-- Passionate about building real-world projects
 
-## 💻 Projects
-- AI Number Guessing Game
-- To-Do List Application
-- Python Calculator
+I'm an aspiring Software Developer focused on building practical applications using Python, Web Development, and Artificial Intelligence.
+
+Currently learning:
+- Python Development
+- Web Scraping & Automation
+- Artificial Intelligence & Machine Learning
+- Full Stack Web Development
+
+I enjoy turning ideas into real projects and continuously improving my development skills.
+
+---
+
+## 💻 Featured Projects
+
+### 🔹 Quotes Scraper
+A Python web scraper that extracts quotes, authors, and tags from websites.
+
+Technologies:
+- Python
+- Requests
+- BeautifulSoup4
+- Pandas
+
+Features:
+- HTML parsing
+- Data extraction
+- CSV export
+
+---
+
+### 🔹 AI Number Guessing Game
+A Python-based game project exploring programming logic and user interaction.
+
+---
+
+### 🔹 To-Do List Application
+A task management application built to practice programming fundamentals.
+
+---
+
+### 🔹 Python Calculator
+A beginner Python project focused on logic building and functions.
+
+---
+
+## 🛠️ Skills
+
+**Programming**
+- Python
+- C++
+- JavaScript
+- React.js
+- Next.js
+- PHP
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- React.js
+- Next.js
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+**Currently Learning**
+- AI & Machine Learning
+- Automation
+- Web Scraping
+
+---
 
 ## 📫 Contact
-Email: malikharoonahmad191@gmail.com
+malikharoonahmad191@gmail.com
+Open to internships, collaborations, and developer opportunities.
