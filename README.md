@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ai/ML developer <br>Artificial Intelligence Student
+Ai/ML Engineer & developer <br>Artificial Intelligence Student
 
 
 # 💻 Tech Stack:
